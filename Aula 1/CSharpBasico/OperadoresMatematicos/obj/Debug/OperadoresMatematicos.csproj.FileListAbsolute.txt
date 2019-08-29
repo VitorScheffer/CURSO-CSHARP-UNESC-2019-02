@@ -1,0 +1,6 @@
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresMatematicos\bin\Debug\OperadoresMatematicos.exe.config
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresMatematicos\bin\Debug\OperadoresMatematicos.exe
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresMatematicos\bin\Debug\OperadoresMatematicos.pdb
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresMatematicos\obj\Debug\OperadoresMatematicos.csproj.CoreCompileInputs.cache
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresMatematicos\obj\Debug\OperadoresMatematicos.exe
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresMatematicos\obj\Debug\OperadoresMatematicos.pdb

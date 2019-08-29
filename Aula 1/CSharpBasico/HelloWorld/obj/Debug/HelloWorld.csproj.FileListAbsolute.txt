@@ -1,0 +1,7 @@
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\HelloWorld\obj\Debug\HelloWorld.pdb

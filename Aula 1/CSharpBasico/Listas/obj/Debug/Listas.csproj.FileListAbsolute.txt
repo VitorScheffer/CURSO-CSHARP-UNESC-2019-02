@@ -1,0 +1,7 @@
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\Listas\bin\Debug\Listas.exe.config
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\Listas\bin\Debug\Listas.exe
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\Listas\bin\Debug\Listas.pdb
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\Listas\obj\Debug\Listas.csprojAssemblyReference.cache
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\Listas\obj\Debug\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\Listas\obj\Debug\Listas.exe
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\Listas\obj\Debug\Listas.pdb

@@ -1,0 +1,7 @@
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe.config
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresLogicos\bin\Debug\OperadoresLogicos.exe
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresLogicos\bin\Debug\OperadoresLogicos.pdb
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresLogicos\obj\Debug\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresLogicos\obj\Debug\OperadoresLogicos.exe
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresLogicos\obj\Debug\OperadoresLogicos.pdb
+C:\Users\Scheffer\Desktop\Narwal x Unesc\Curso\CSharpBasico\OperadoresLogicos\obj\Debug\OperadoresLogicos.csprojAssemblyReference.cache
