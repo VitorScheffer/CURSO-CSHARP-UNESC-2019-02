@@ -1,0 +1,15 @@
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.WindowsForm.exe.config
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.WindowsForm.exe
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.WindowsForm.pdb
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.Entidades.dll
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.Entidades.pdb
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.csprojAssemblyReference.cache
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.CadastroVeiculo.resources
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.FormPrincipal.resources
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.MinhaUserControl.resources
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.Properties.Resources.resources
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.csproj.GenerateResource.cache
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.csproj.CopyComplete
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.exe
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.pdb

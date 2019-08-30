@@ -1,0 +1,5 @@
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\bin\Debug\Projeto.Entidades.dll
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\bin\Debug\Projeto.Entidades.pdb
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\obj\Debug\Projeto.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\obj\Debug\Projeto.Entidades.dll
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\obj\Debug\Projeto.Entidades.pdb

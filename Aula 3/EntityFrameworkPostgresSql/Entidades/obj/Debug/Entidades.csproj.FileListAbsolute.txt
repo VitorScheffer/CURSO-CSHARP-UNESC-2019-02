@@ -1,0 +1,12 @@
+E:\Narwal\Curso\curso-csharp\WindowsForm\Entidades\bin\Debug\Entidades.dll
+E:\Narwal\Curso\curso-csharp\WindowsForm\Entidades\bin\Debug\Entidades.pdb
+E:\Narwal\Curso\curso-csharp\WindowsForm\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Narwal\Curso\curso-csharp\WindowsForm\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Narwal\Curso\curso-csharp\WindowsForm\Entidades\obj\Debug\Entidades.dll
+E:\Narwal\Curso\curso-csharp\WindowsForm\Entidades\obj\Debug\Entidades.pdb
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\bin\Debug\Entidades.dll
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\bin\Debug\Entidades.pdb
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\obj\Debug\Entidades.dll
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\obj\Debug\Entidades.pdb

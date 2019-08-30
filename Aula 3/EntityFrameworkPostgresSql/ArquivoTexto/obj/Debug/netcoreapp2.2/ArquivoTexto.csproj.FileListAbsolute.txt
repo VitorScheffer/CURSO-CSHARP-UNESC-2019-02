@@ -1,0 +1,11 @@
+E:\Narwal\Curso\curso-csharp\WindowsForm\ArquivoTexto\bin\Debug\netcoreapp2.2\ArquivoTexto.deps.json
+E:\Narwal\Curso\curso-csharp\WindowsForm\ArquivoTexto\bin\Debug\netcoreapp2.2\ArquivoTexto.runtimeconfig.json
+E:\Narwal\Curso\curso-csharp\WindowsForm\ArquivoTexto\bin\Debug\netcoreapp2.2\ArquivoTexto.runtimeconfig.dev.json
+E:\Narwal\Curso\curso-csharp\WindowsForm\ArquivoTexto\bin\Debug\netcoreapp2.2\ArquivoTexto.dll
+E:\Narwal\Curso\curso-csharp\WindowsForm\ArquivoTexto\bin\Debug\netcoreapp2.2\ArquivoTexto.pdb
+E:\Narwal\Curso\curso-csharp\WindowsForm\ArquivoTexto\obj\Debug\netcoreapp2.2\ArquivoTexto.csprojAssemblyReference.cache
+E:\Narwal\Curso\curso-csharp\WindowsForm\ArquivoTexto\obj\Debug\netcoreapp2.2\ArquivoTexto.csproj.CoreCompileInputs.cache
+E:\Narwal\Curso\curso-csharp\WindowsForm\ArquivoTexto\obj\Debug\netcoreapp2.2\ArquivoTexto.AssemblyInfoInputs.cache
+E:\Narwal\Curso\curso-csharp\WindowsForm\ArquivoTexto\obj\Debug\netcoreapp2.2\ArquivoTexto.AssemblyInfo.cs
+E:\Narwal\Curso\curso-csharp\WindowsForm\ArquivoTexto\obj\Debug\netcoreapp2.2\ArquivoTexto.dll
+E:\Narwal\Curso\curso-csharp\WindowsForm\ArquivoTexto\obj\Debug\netcoreapp2.2\ArquivoTexto.pdb
