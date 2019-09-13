@@ -1,0 +1,51 @@
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.WindowsForm.exe.config
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.WindowsForm.exe
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.WindowsForm.pdb
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.Entidades.dll
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.Entidades.pdb
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.csprojAssemblyReference.cache
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.CadastroVeiculo.resources
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.FormPrincipal.resources
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.MinhaUserControl.resources
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.Properties.Resources.resources
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.csproj.GenerateResource.cache
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.csproj.CopyComplete
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.exe
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.pdb
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.WindowsForm.exe.config
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.WindowsForm.exe
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.WindowsForm.pdb
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\EntityFramework.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\EntityFramework.SqlServer.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\EntityFramework6.Npgsql.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\MetroFramework.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Npgsql.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.Entidades.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\System.Buffers.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\System.Memory.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\System.Numerics.Vectors.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\System.ValueTuple.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Projeto.Entidades.pdb
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\EntityFramework.xml
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\EntityFramework.SqlServer.xml
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\EntityFramework6.Npgsql.xml
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Npgsql.pdb
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\Npgsql.xml
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\System.Buffers.xml
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\System.Memory.xml
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\System.Numerics.Vectors.xml
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\System.ValueTuple.xml
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.csprojAssemblyReference.cache
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.Properties.Resources.resources
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.csproj.GenerateResource.cache
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.csproj.CoreCompileInputs.cache
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.csproj.CopyComplete
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.exe
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.pdb
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\obj\Debug\Projeto.WindowsForm.FormPrincipal.resources
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\WindowsForm\bin\Debug\MetroFramework.Fonts.dll

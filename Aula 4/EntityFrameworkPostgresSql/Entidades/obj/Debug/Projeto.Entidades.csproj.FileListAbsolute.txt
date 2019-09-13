@@ -1,0 +1,11 @@
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\bin\Debug\Projeto.Entidades.dll
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\bin\Debug\Projeto.Entidades.pdb
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\obj\Debug\Projeto.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\obj\Debug\Projeto.Entidades.dll
+C:\Users\vscheffer\Desktop\Curso\EntityFrameworkPostgresSql\Entidades\obj\Debug\Projeto.Entidades.pdb
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\Entidades\bin\Debug\Projeto.Entidades.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\Entidades\bin\Debug\Projeto.Entidades.pdb
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\Entidades\obj\Debug\Projeto.Entidades.csprojAssemblyReference.cache
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\Entidades\obj\Debug\Projeto.Entidades.csproj.CoreCompileInputs.cache
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\Entidades\obj\Debug\Projeto.Entidades.dll
+D:\Github\CURSO-CSHARP-UNESC-2019-02\Aula 4\EntityFrameworkPostgresSql\Entidades\obj\Debug\Projeto.Entidades.pdb
